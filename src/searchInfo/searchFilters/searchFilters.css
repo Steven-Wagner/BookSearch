@@ -1,0 +1,6 @@
+.searchFilters {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(226, 226, 226);
+    font-size: calc(10px + 2vmin);
+}
